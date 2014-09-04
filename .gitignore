@@ -1,0 +1,11 @@
+########################################################################
+## Name:        .gitignore
+## Purpose:     Not commit certain files to github repo
+## Author:      biki-desu
+## Modified by: biki-desu
+## Created:     2014/09/01
+## Copyright:   (c) biki-desu
+## Licence:     GPLv2
+########################################################################
+
+build/
