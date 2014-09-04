@@ -43,6 +43,9 @@ else()
 	message("-- Enable debug: no.")
 endif()
 
+# set a easily changable program name
+add_definitions("-DFM_NAME=\"${PROJECT_NAME}\"")
+
 message("-------------------------")
 
 # add src
